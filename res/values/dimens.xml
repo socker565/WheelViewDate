@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size">18dp</dimen>   <!-- 字体大小 -->
+    <dimen name="font_size2">18dp</dimen>
+    <dimen name="font_size18">18dp</dimen>  <!-- 按钮字体大小 -->
+    <dimen name="font_size24">18dp</dimen>  <!-- 按钮字体大小 -->
+    <dimen name="font_banks">24dp</dimen>
+    <dimen name="line_space">5dp</dimen>   <!-- TextView内行间距 -->
+    <dimen name="text_line_space">5dp</dimen>   <!-- TextView间距 -->
+    
+    <dimen name="textSize_button">18dp</dimen>   <!-- 按钮文字大小 -->
+    <dimen name="textSize_textView">18dp</dimen>   <!-- TextView文字大小 -->
+    <dimen name="textSize_note">16dp</dimen>   <!-- 温馨提示文字大小 -->
+    
+    <dimen name="height">59dp</dimen>
+    <dimen name="note_space">3dp</dimen>      <!-- 温馨提示文字行间距 -->
+    
+    
+    <dimen name="layout_padding1">10dp</dimen>
+    <dimen name="layout_padding">5dp</dimen>
+    <dimen name="layout_paddingLeft">5dp</dimen>
+    <dimen name="layout_paddingRight">5dp</dimen>
+    <dimen name="layout_paddingTop">10dp</dimen>
+    <dimen name="layout_paddingBottom">10dp</dimen>
+    
+    <dimen name="layout_margin">5dp</dimen>
+    <dimen name="layout_marginTop">20dp</dimen>
+    <dimen name="layout_marginTop_btn">30dp</dimen>
+</resources>

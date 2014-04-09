@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="view_animation" parent="android:Animation">  
+        <item name="@android:windowEnterAnimation">@anim/wheel_in</item>  
+        <item name="@android:windowExitAnimation">@anim/wheel_out</item> 
+    </style> 
+</resources>

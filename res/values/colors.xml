@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="icon_bg">#FFCC33</color>
+    <color name="main_bg">#EEEEEE</color>
+    <color name="layout_bg">#0066CC</color>
+    <color name="textview_normal">#D0D0D0</color>
+    <color name="textview_pressed">#7175A4</color>
+    
+    <color name="alpha">#00000000</color>
+    <color name="divider">#EEEEEE</color>
+    
+    <color name="color_textview">#000000</color>
+    <color name="color_button">#ffffff</color>
+    <color name="color_button_swipe">#ffffff</color>
+    <color name="color_button_normal">#000000</color>
+</resources>
